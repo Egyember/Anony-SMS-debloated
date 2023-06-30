@@ -1,6 +1,6 @@
 # Anony-SMS
 
-### Anony is a python script that sends sms with the textbelt API. (It's free for some reson)
+### Anony is a python script that sends sms with the textbelt API. (It's free for some reason)
 
 ## Installation
 
