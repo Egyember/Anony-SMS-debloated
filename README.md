@@ -5,8 +5,8 @@
 ## Installation
 
 ```
-$ git clone https://github.com/hyprid-tech/Anony-SMS
-$ cd Anony-SMS
+$ git clone https://github.com/Egyember/Anony-SMS-debloated.git
+$ cd Anony-SMS-debloated
 $ pip install -r requirements.txt
 $ python3 sms.py
 ```
